@@ -1,0 +1,74 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.initial-container {
+  color: #ffffff;
+  border-radius: 90px;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.name {
+  color: #334155;
+  font-weight: bold;
+  font-size: 25px;
+}
+.sub-con1 {
+  display: flex;
+  padding: 10px;
+}
+
+.text {
+  color: #94a3b8;
+  background-color: #ffffff;
+  border: none;
+}
+.comment {
+  color: #64748b;
+  font-size: 20px;
+}
+.icon-set {
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+}
+.sub-con2 {
+  display: flex;
+  justify-content: space-between;
+}
+.like-con {
+  display: flex;
+  flex-direction: row;
+}
+.main {
+  list-style-type: none;
+}

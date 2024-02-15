@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.main-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.head {
+  color: #1e293b;
+  font-size: 40px;
+  font-weight: bold;
+}
+.para {
+  color: #475569;
+  font-weight: bold;
+}
+.input-name {
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: #cbd2d9;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.input-comment {
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: #cbd2d9;
+  padding: 5px;
+  margin-top: 5px;
+}
+.but {
+  background-color: #0284c7;
+  padding: 10px;
+  border-radius: 8px;
+  color: #ffffff;
+  border: 0;
+  margin-top: 5px;
+}
+
+.bottom-con {
+  display: flex;
+  flex-direction: row;
+}
+.comment-box {
+  background-color: #0284c7;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 5px;
+  width: 30px;
+  padding: 5px;
+  height: 30px;
+  text-align: center;
+  margin: 10px;
+}
+.line {
+  color: #cbd2d9;
+  padding: 2%;
+}
+.full-con {
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+}
